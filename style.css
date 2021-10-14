@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "Dosis";
+  src: url(./Dosis-VariableFont_wght.ttf);
+}
+
+body {
+  font-family: "Dosis";
+  text-align: center;
+  margin-top: 32px;
+}
+
+img {
+  width: 200px;
+}
